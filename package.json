@@ -48,7 +48,7 @@
     "@deepseek-ai/dsh-workflow": "0.1.0-rc.6",
     "@emnapi/runtime": "1.11.3",
     "@img/sharp-wasm32": "0.35.3",
-    "pnpm": "11.21.0"
+    "pnpm": "11.22.0"
   },
   "devDependencies": {
     "7zip-bin": "5.2.0",
