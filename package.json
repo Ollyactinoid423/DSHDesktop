@@ -26,7 +26,7 @@
     "format": "prettier --write main.mjs builtin-plugin.mjs toolchain.mjs runtime-preload.cjs scripts/*.mjs test/*.mjs test/*.cjs plugins/dsh-desktop-ui/lib/*.js"
   },
   "dependencies": {
-    "@deepseek-ai/cordis-plugin-group": "1.0.1",
+    "@deepseek-ai/cordis-plugin-group": "1.0.2",
     "@deepseek-ai/dsh": "0.1.0-rc.6",
     "@deepseek-ai/dsh-anonymous-user-id": "0.1.0-rc.6",
     "@deepseek-ai/dsh-atomic-write": "0.1.0-rc.6",
